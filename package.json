@@ -1,0 +1,1 @@
+{"description":"Angry Judge: The Short Rant Contest — writes one funny rant about a self-checkout to /output/entry.txt","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"angry-judge-short-rant","private":true,"type":"module","version":"1.0.0"}
